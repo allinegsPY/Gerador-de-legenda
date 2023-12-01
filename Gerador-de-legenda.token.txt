@@ -1,0 +1,900 @@
+01.png#0	Um longo cais com um edifício na água .
+01.png#1	Uma extensa passarela com um edifício à beira d'água .
+01.png#2	Uma longa plataforma se estendendo até um edifício na margem da água.
+01.png#3	Um cais que se estende por uma grande distância com um edifício próximo à água .
+01.png#4	Uma passagem longa que conduz a um edifício construído sobre a água .
+02.png#0	Uma construção de concreto que se estende em direção ao mar .
+02.png#1	Uma estrutura de concreto que se projeta em direção ao vasto oceano .
+02.png#2	Uma grande estrutura de concreto que se alonga na direção do mar .
+02.png#3	Um impressionante trecho de concreto que se estende para o horizonte marinho .
+02.png#4	Um espigão de concreto que se alonga em direção ao horizonte do mar .
+03.png#0	O pelourinho é uma coluna de pedra em estilo manuelino, uma característica arquitetônica que remonta ao século 16 .
+03.png#1	Uma coluna feita de calcário, com base octogonal . 
+03.png#2	Uma coluna alta e esguia, alcançando vários metros de altura .
+03.png#3	Uma estrutura de pedra de base quadrada que se eleva a uma altura considerável .
+03.png#4	Uma estrutura em pedra, típica dos pelourinhos medievais, que servia como símbolo de poder e justiça da autoridade local .
+04.png#0	Um pequeno edifício antigo com esquema de cores amarelo e marrom .
+04.png#1	Um pequeno edifício amarelo e marrom, placa de madeira escrita "Mercado de Artesanato" .
+04.png#2	Um edifício pequeno, amarelo e marrom, com detalhes de madeira e lâmpadas vintages .
+04.png#3	Um pequeno edifício com esquema de cores amarelo e marrom, apresenta rodapé de tom amarelo mais vibrante .
+04.png#4	Um pequeno edifício amarelo e marrom, com artigos de artesanato para a venda .
+05.png#0	Uma igreja branca com portas e janelas azuis na esquina de uma cidade .
+05.png#1	Uma igreja de cor branca, com portas e janelas azuis, duas grandes torres laterais .
+05.png#2	Uma igreja de cor branca, com um sino no topo da torre lateral esquerda .
+05.png#3	Uma igreja na cor branca, com janelas e portas azuis e uma cruz no seu topo central .
+05.png#4	Uma igreja branca, com portas e janelas azuis, possui um sino no topo da torre lateral esquerda .
+06.png#0	Um grande edifício na cor salmão, antigo, com muitas janelas arqueadas .
+06.png#1	Um grande edifício na cor salmão, com muitas janelas, dois andares e uma cruz em seu topo .
+06.png#2	Um grande edifício de cor salmão, rodeado por um pátio bem cuidado, com grama verde e plantas .
+06.png#3	Um grande edifício de cor salmão, com uma área de acesso à entrada do edifício e vários vasos de plantas espalhados .
+06.png#4	Um grande edifício de cor salmão, cercado por um pátio, com grama verde e diversas plantas ornamentais .
+07.png#0	Um movimentado mercado de roupas ao ar livre .
+07.png#1	Uma série de barracas, cobertas por lonas azuis que protegem diversas roupas .
+07.png#2	Um movimentado mercado de roupas ao ar livre, que variam em estilo e cor .
+07.png#3	Uma feira de roupas ao ar livre, cobertas por lonas azuis .
+07.png#4	Uma feira de roupas de estilos variados com diversos manequins em exposição .
+08.png#0	Um edifício sombreado por árvores verdejantes, rodeado por cerca .
+08.png#1	Um edifício branco com uma placa escrita "INSTITUTO DE DOCUMENTAÇÃO" .
+08.png#2	Um grande edifício branco, com uma placa escrita "INSTITUTO DE DOCUMENTAÇÃO", rodeado por cerca e várias árvores . 
+08.png#3	Um grande edifício branco, com dois andares, várias janelas e uma pequena sacada no último andar . 
+08.png#4	Um grande edifício branco com uma placa escrita "INSTITUTO DE DOCUMENTAÇÃO" .
+09.png#0	Um alto edifício amarelo de estilo espanhol no lado esquerdo .
+09.png#1	Um alto edifício amarelo, com colunas e detalhes brancos .
+09.png#2	Um alto edifício amarelo, com colunas e detalhes brancos, com uma faixa de grama que se estende até o fim da estrutura .
+09.png#3	Um alto edifício amarelo, com colunas e detalhes brancos, com janelas vintages basculante .
+09.png#4	Um alto edifício amarelo, estilo espanhol com detalhes brancos evidentes .
+10.png#0	Um prédio antigo, branco, com portas e venezianas azuis, identificado pela sinalização como "Escola Estadual Maria Amália" .
+10.png#1	Uma escola branca, com portas e janelas azuis, com pequenos detalhes à esquerda de azulejos verticais verdes, vermelhos e amarelos .
+10.png#2	Um antigo prédio branco, com suas portas e janelas em tons de azul, acentuado à esquerda por pequenos azulejos verticais em verde, vermelho e amarelo .
+10.png#3	Uma escola antiga branca, com duas janelas, uma porta central e outra porta à esquerda . 
+10.png#4	Um prédio branco antigo, com portas e janelas azuis e uma fachada com propaganda da escola .
+11.png#0	Uma grande igreja com torre sineira, cruz no topo e três sacadas .
+11.png#1	Uma grande igreja na cor bege, de dois andares, detalhes das colunas em branco .
+11.png#2	Uma grande igreja bege, com portas em tons de vinho e janelas venezianas brancas .
+11.png#3	Uma grande igreja na cor bege, com duas torres e uma cruz central no topo .
+11.png#4	Uma grande igreja antiga, com torres, janelas, cruz central no topo e três sacadas .
+12.png#0	Um cemitério com grande portão de ferro ornamentado, decorado com cálices em mármore e um anjo centralizado no arco do portão .
+12.png#1	Um cemitério com portão de ferro ornamentado, cercado por cercas de ferro e esculturas.
+12.png#2	Um grande cemitério no estilo gótico, rodeado por uma cerca de ferro, o portão apresenta um anjo em um arco ornamentado com uma cruz em seu topo .
+12.png#3	Um cemitério com portão de ferro decorado, cercas ornamentais e esculturas em seu perímetro .
+12.png#4	Um cemitério gótico de grande proporção, rodeado por uma cerca de ferro e um portão com um anjo esculpido e cruz ornamentada .
+13.png#0	Um prédio alto e pintado com tons agradáveis de rosa, verde e branco .
+13.png#1	Um edifício rosa de dois andares, com janelas e três sacadas .
+13.png#2	Um prédio rosa com detalhes em branco e janelas verde, apresenta um lance de escadas na entrada .
+13.png#3	Um prédio alto rosa, com janelas verdes e detalhes brancos, cercado por àrvores .
+13.png#4	Um grande prédio rosa, cercado por árvores, com janelas verdes de bordas brancas .
+14.png#0	Um edifício com esquema de cores salmão e bege e inclui dois portões azuis .
+14.png#1	Um edifício salmão e bege, com portões azuis e detalhes multicor .
+14.png#2	Um edifício na cor bege com colunas na cor salmão, portão azul à esquerda .
+14.png#3	Um edifício em tons salmão e bege, com portões azuis na extremidades .
+14.png#4	Um edifício com esquema de cores salmão e bege, com portões azuis .
+15.png#0	Uma igreja em tom de rosa pastel com uma torre alta no lado esquerdo, portas marrom-alaranjado, rodeado por árvores floridas .
+15.png#1	Uma igreja na cor rosa pastel, apresenta uma torre com uma cruz central e dois alto-falantes nas extremidades .
+15.png#2	Uma igreja rosa pastel, com portas marrons, arcos e telhados cinzas . 
+15.png#3	Uma igreja de cor rosa pastel, apresenta portas marrons, arcos e telhados cinzas, torre alta à esquerda .
+15.png#4	Uma igreja rosa pastel, com portas marrons, arcos e telhados cinzas .
+16.png#0	Um edifício em tons de areia e branco, apresenta uma fileira de arcos com um toque de elegância arquitetônica. No meio do pátio, uma pequena fonte .
+16.png#1	Um edifício com colunas em tons de areia e telhado laranja, uma fileira de arcos e no meio do pátio, uma fonte .
+16.png#2	Um edifício nas cores areia e branco, no centro do pátio uma fonte .
+16.png#3	Um edifício em tons de areia e branco, marcado por uma fila de arcos como segundo andar .
+16.png#4	Um edifício com colunas em tons de areia, telhado laranja, uma fileira de arcos e, no meio do pátio, uma fonte .
+17.png#0	Edifício histórico com estilo arquitetônico romântico 
+17.png#1	Um edifício na cor areia, situado em um pátio, com estacionamento .
+17.png#2	Um grande edifício de dois andares, com estilo arquitetônico de castelo .
+17.png#3	Um edifício antigo em tons de areia, com uma única porta arqueada de entrada .
+17.png#4	Um edifício grande com três carros estacionados e uma motocicleta .
+18.png#0	Um grande edifício branco e vermelho com estrutura curva e dois andares .
+18.png#1	Um grande edifício com placa que diz "Clube Náutico" em seu topo .
+18.png#2	Um edifício branco e vermelho com várias janelas nos andares superiores e inferiores .
+18.png#3	Um edifício branco e vermelho com um jardim em frente .  
+18.png#4	Um edifício em branco com colunas vermelhas .
+19.png#0	Uma igreja em tons de rosa e branco .
+19.png#1	Uma igreja rosa e branca cercada por uma cerca marrom .
+19.png#2	Uma igreja com uma cruz em seu topo central . 
+19.png#3	Igreja com uma torre sineira alta à sua esquerda .
+19.png#4	Igreja rosa com três portas e quatro janelas marrons .
+20.png#0	Uma igreja histórica com uma torre sineira alta .
+20.png#1	Uma grande igreja com fachada de arcos nos seus portais e janelas .
+20.png#2	Uma igreja grande, com uma torre alta destacando o seu significado arquitetônico .
+20.png#3	Uma igreja monumental com duas janelas na frente em forma de arco, com cores em tons claros .
+20.png#4	Uma igreja com torre alta, erguida em torno de uma praça com escadas ao seu redor .
+21.png#0	Uma igreja histórica com uma torre sineira alta .
+21.png#1	Uma grande igreja com fachada de arcos nos seus portais e janelas .
+21.png#2	Uma igreja grande, com uma torre alta destacando o seu significado arquitetônico .
+21.png#3	Uma igreja monumental com duas janelas na frente em forma de arco, com cores em tons claros .
+21.png#4	Uma igreja com torre alta, erguida em torno de uma praça com escadas ao seu redor .
+22.png#0	Um cemitério com grande portão de ferro ornamentado, decorado com cálices em mármore e um anjo centralizado no arco do portão .
+22.png#1	Um cemitério com portão de ferro ornamentado, cercado por cercas de ferro e esculturas .
+22.png#2	Um grande cemitério no estilo gótico, rodeado por uma cerca de ferro, o portão apresenta um anjo em um arco ornamentado com uma cruz em seu topo .
+22.png#3	Um cemitério com portão de ferro decorado, cercas ornamentais e esculturas em seu perímetro .
+22.png#4	Um cemitério gótico de grande proporção, rodeado por uma cerca de ferro e um portão com um anjo esculpido e cruz ornamentada .
+23.png#0	Uma fonte de água grande, em formato circular .
+23.png#1	Um monumento de fonte de água com muitas janelas ao redor .
+23.png#2	Uma fonte de água em uma parede de pedra circular .
+23.png#3	Uma grande fonte de água com formato arredondado e colunas de pedra.rcado por àrvores .
+23.png#4	Uma fonte de água histórica, construída em pedras de forma circular com pequenas janelas com colunas de pedra no centro .
+24.png#0	Uma estação de trem antiga com telhado rodeado por dossel de ferro .
+24.png#1	Uma histórica estação construída em meio de uma praça arborizada .
+24.png#2	Estação de trem antiga em tons de cores avermelhadas e detalhes em branco .
+24.png#3	Estação de trem histórica com bancos ao seu lado cobertos por um telhado .
+24.png#4	Uma antiga estação coberta, com uma pequena cabine no centro, com uma porta e uma janela .
+25.png#0	Um grande edifício branco de dois andares, antigo, com telhado de telhas vermelhas .
+25.png#1	Um edifício antigo de sobrado, com arcos nas janelas e portas e uma sacada no primeiro andar .
+25.png#2	Um casarão antigo de sobrado em tons de branco com cores claras e janelas em azul marinho .
+25.png#3	Um grande casarão histórico com um pátio na frente e um lampião a gás no centro .
+25.png#4	Um edifício histórico com um grande pátio de gramado verde e árvores ao redor .
+26.png#0	Uma igreja em tons claros de branco com um grande portal em forma de arco na entrada .
+26.png#1	Uma igreja monumental com telhado alto e uma cruz no topo .
+26.png#2	Uma grande igreja com um vitral arredondado no centro da parede na fachada do monumento .
+26.png#3	Uma igreja grande com um pátio de grama verde na entrada do monumento .
+26.png#4	Uma igreja grande, com uma ampla fachada, jardim na entrada e uma torre localizada na parte de trás .
+27.png#0	Uma igreja histórica com uma torre sineira ao lado da entrada .
+27.png#1	Uma igreja em tons claros de cores brancas com detalhes amarelos e janelas e portas verdes .
+27.png#2	Uma antiga igreja com três janelas com sacada e uma cruz no topo .
+27.png#3	uma igreja com um pequeno muro no pátio da entrada e portões de ferro .
+27.png#4	Uma igreja com um pequeno pátio na entrada, cercada por um muro branco e com um grande arco na porta de entrada .
+28.png#0	Um grande edifício com telhado curvo e várias janelas .
+28.png#1	Um edifício histórico em tons claros de amarelo e com janelas em detalhes brancos .
+28.png#2	Um edifício com um grande pátio arborizado cercado por um muro com grades de ferro cor de chumbo .
+28.png#3	Um grande casarão construído em volta de um pátio com várias janelas na fachada .
+28.png#4	Um sobrado histórico cercado por um grande pátio e com uma escadaria na entrada do edifício .
+29.png#0	Uma antiga estação de trem com telhado vermelho e uma chaminé no topo .
+29.png#1	Uma estação de trem antiga com fachada ampla com três janelas e três portas .
+29.png#2	Uma antiga estação de trem com um dossel de ferro por trás da entrada .
+29.png#3	Uma estação de trem histórica pintada em tons claros de branco com colunas de pedra .
+29.png#4	Uma estação de trem antiga cercada por uma praça com portas e janelas em forma de arco na fachada .
+30.png#0	Uma igreja com uma grande torre e colunas no centro do edifício .
+30.png#1	Uma igreja com várias janelas de vidro e portas em forma de arco na entrada .
+30.png#2	Uma grande igreja com tons claros de cinza, detalhes brancos e portas na cor azul .
+30.png#3	Uma igreja histórica com grande riqueza de detalhes esculpidos na fachada .
+30.png#4	Uma grande igreja construída com diversas colunas e um rodapé elevado construído de pedra ao redor de todo edifício .
+31.png#0	Uma igreja amarela e branca com um campanário alto e uma cruz no topo .
+31.png#1	Uma igreja com estátuas posicionadas nos lados esquerdo e direito .
+31.png#2	Igreja com uma entrada principal em arco, janelas grandes no nível superior e janelas menores no andar inferior .
+31.png#3	Uma igreja alta nas cores branca e amarela com uma cruz no topo .
+31.png#4	Igreja amarela com detalhes brancos, portas marrons e janelas cinzas .
+32.png#0	Uma grande igreja branca com uma torre sineira alta .
+32.png#1	Igreja branca em uma praça com um memorial em sua frente .
+32.png#2	Uma igreja branca com portas e janelas azuis .
+32.png#3	Uma grande igreja branca próxima à um memorial de base branca com uma cruz de madeira .
+32.png#4	Igreja branca com detalhes ornamentados em amarelo nas três portas centrais .
+33.png#0	Uma rotatória em uma cidade com várias casas ao redor .
+33.png#1	Rotatória com grandes edifícios no estilo neoclássica ao redor .
+33.png#2	Rotunda com grande gramado verde e flores .
+33.png#3	Uma rotatória com pessoas e veículos próximos .
+33.png#4	Giradouro com grandes prédios ao redor em uma cidade .
+34.png#0	Um pátio com um caminho claro a uma estátua central sobre um pedestal .
+34.png#1	Pátio de um edifício, com estátua rodeada por uma variedade de flores, pequenas árvores e arbustos .
+34.png#2	Um patio no centro de um antigo edifício com grama verde em grande parte da área .
+34.png#3	Um pátio de edifício com detalhes arquitetônicos como arcos e sacadas .
+34.png#4	Pátio com uma estátua central em tons de bege e cinza.
+35.png#0	Uma pequena bica branca com detalhes ornamentados em amarelo .
+35.png#1	Uma bica semelhante a um santuário, rodeada por flores e algumas árvores .
+35.png#2	Bica branca e amarela no centro de um possível parque .
+35.png#3	Uma pequena fonte branca com detalhes amarelos .
+35.png#4	Fonte branca e amarela cercada por arbustos e flores .
+36.png#0	Uma velha casa em ruínas .
+36.png#1	Uma casa coberta de hera e rodeada por um pequeno jardim .
+36.png#2	Uma casa com um portão de ferro forjado entre pequenas pedras .
+36.png#3	Casa em ruínas rodeada por vegetação .
+36.png#4	Uma casa velha na cor clara com uma janela e muitas plantas .
+37.png#0	Um prédio rosa com grades brancas arco de entrada e portão na cor creme
+37.png#1	Edifício com placa escrita “HOSPITAL ULYSSE PERNAMBUCO”
+37.png#2	Um edifício na cor rosa com árvores, alguns arbusto e grama.
+37.png#3	Edifício rosa numerado em "2130", com portal de entrada bege .
+37.png#4	Edifício rosa com caminho de pedra e grama verde ao redor .
+38.png#0	Uma ciclovia azul em ponte .
+38.png#1	Ciclovia em uma ponte cercada com grades brancas de metal .
+38.png#2	Uma longa ponte com ciclovia azul .
+38.png#3	Longa ponte com alguns carros estacionados .
+38.png#4	Ponte com ciclovia azul sobre um rio em uma cidade .
+39.png#0	Um pequeno edifício antigo de estilo alemão .
+39.png#1	Edifício com paredes brancas com linhas e telhados marrons .
+39.png#2	Edifício com bandeiras de Pernambuco, Brasil e Alemanha .
+39.png#3	Um prédio branco pequeno e com detalhes marrons em enxaimel .
+39.png#4	Prédio alemão com estacionamento em um centro urbano .
+40.png#0	Um edifício amarelo com janelas distintas e acabamentos brancos .
+40.png#1	Edifício amarelo com vasos de plantas brancos na entrada e árvore no ambiente .
+40.png#2	Edifício amarelo com detalhes na cor branca e banco azul próximo
+40.png#3	Prédio amarelo com portas e janelas azuis . 
+40.png#4	Edifício amarelo com janelas azuis arqueadas .
+41.png#0	Uma grande igreja azul clara com campanário alto e pontiagudo .
+41.png#1	Igreja em azul claro com detalhes brancos e dois sinos no topo .
+41.png#2	Grande igreja com sete janelas superiores e três portas inferiores .
+41.png#3	Igreja com portas e janelas brancas .
+41.png#4	Igreja azul com detalhes brancos e dois sinos .
+42.png#0	Um prédio amarelo de dois andares com fundação vermelha .
+42.png#1	Prédio amarelo e vermelho com detalhes brancos .
+42.png#2	Prédio com muitas janelas e três árvores em sua frente. 
+42.png#3	Edifício amarelo e vermelho com um veículo próximo estacionado .
+42.png#4	Um grande edifício nas cores amarela e vermelha .
+43.png#0	Um edifício de esquina marcado pela decadência urbana .
+43.png#1	Edifício vermelho fortemente adornado com grafites .
+43.png#2	Edifício vermelho com detalhes em cinza .
+43.png#3	Um edifício vermelho de paredes e portas cobertas por pichações .
+43.png#4	Edifício na cor vermelha e cinza, com vegetação de trepadeiras no canto esquerdo .
+44.png#0	Uma pequena igreja com uma cruz no topo, em tons de branco e bege .
+44.png#1	Igreja branca com detalhes bege portas e janelas verdes .
+44.png#2	Uma igreja branca rodeada por grade de ferro verde .
+44.png#3	Igreja branca com alguns vasos de plantas e árvores próximas .
+44.png#4	Uma pequena e antiga igreja, com esquema de cores branco e bege .
+45.png#0	Uma ampla parede que se estende da esquerda para a direita .
+45.png#1	Parede grafitada por diversos símbolos .
+45.png#2	Um extenso muro grafitado cercando uma grande área de vegetação .
+45.png#3	Uma parede coberta por grafites coloridos cercando uma vasta área .
+45.png#4	Muro grafitado cercando uma área de árvores poste e linhas de energia à frente .
+46.png#0	Uma estrutura alta, abandonada e degradada com portas e janelas vermelhas .
+46.png#1	Edifício em forma estreita, com porta central e múltiplas janelas .
+46.png#2	Casarão em mau estado de conservação com uma sacada central .
+46.png#3	Edifício danificado rodeado por árvores e arbustos .
+46.png#4	Casarão estreito com porta vermelha de madeira e três janelas superiores .
+47.png#0	Igreja alta em tons de bege com vitrais religiosos . 
+47.png#1	Uma igreja com detalhes arquitetônicos, porta principal em arco .
+47.png#2	Igreja bege com várias janelas de detalhes distintos .
+47.png#3	Uma igreja na cor bege com porta em arco e detalhes com vitrais coloridos .
+47.png#4	Igreja alta e bege com quatro veículos estacionados .
+48.png#0	Uma igreja amarela com detalhes em branco e um campanário alto .
+48.png#1	Igreja amarela com três sacadas arqueadas e pequenas .
+48.png#2	Igreja alta com cruz no topo em tons de bege .
+48.png#3	Uma igreja amarela com detalhes brancos e um vitral central circular azul.
+48.png#4	Igreja amarela e branca com janelas marrons .
+49.png#0	Um edifício azul colorido com janelas brancas e uma fila de pessoas próxima à entrada.
+49.png#1	Edifício azul comercial com decoração natalina e alguns veículos próximos .
+49.png#2	Um edifício azul com detalhes brancos e marrons
+49.png#3	Edifício na cor azul com decoração natalina e muitas pessoas próximas .
+49.png#4	Edifício azul com letreiro branco na porta escrito "Casa dos Frios" .
+50.png#0	Um grande edifício amarelo com poucos detalhes em branco .
+50.png#1	Grande edifício no estilo neoclássico de dois andares .
+50.png#2	Edifício com janelas marrons em arcos decorativos e varanda no segundo andar .
+50.png#3	Palácio cercado por árvores e grades de metal .
+50.png#4	Um palácio em tons de bege com portas e janelas marrons . 
+51.png#0	Uma antiga e histórica igreja de pequeno porte com uma porta vermelha .
+51.png#1	Uma igreja branca com detalhes nas colunas em tijolos de pedras
+51.png#2	Pequena igreja branca com detalhes ornamentados nas janelas e porta .
+51.png#3	Igreja branca com vitral circular transparente no topo . 
+51.png#4	Igreja com porta vermelha e detalhes ornamentados em tons de areia .
+52.png#0	Uma grande estátua de um casal e uma criança .
+52.png#1	Grande estátua verde de homem e mulher com criança no colo .
+52.png#2	Estátua em tons de verde e azul sobre um pedestal bege .
+52.png#3	Uma estátua de casal e criança segurando um barquinho . 
+52.png#4	Estátua em tons de azul e verde próxima ao mar .
+53.png#0	Um parque urbano, identificado em placa como “Dona Lindu PARQUE”.
+53.png#1	Parque com um caminho em asfalto cercado por grama e alguns postes de luz .
+53.png#2	Parque repleto de vegetação com árvores e áreas gramadas .
+53.png#3	Um parque com várias árvores, alguns postes de luz e área de lazer para crianças .
+53.png#4	Parque com bancos, vegetação e grama verde em um centro urbano .
+54.png#0	Um edifício com muro laranja, detalhes de ladrilhos azuis e colunas brancas.
+54.png#1	Um monumento de base branca e cruz marrom cercado por um muro laranja .
+54.png#2	Placa branca de detalhes laranja e azul, com haste preta escrita "AS PESSOAS EM PRIMEIRO LUGAR REFORMA DA PRAÇA CRUZ DAS ALMAS" .
+54.png#3	Um pátio de um edifício pintado em tons nítidos de laranja e branco .
+54.png#4	Pátio com vários arbustos e uma palmeira, com uma cruz evidente .
+55.png#0	Um canhão velho e enferrujado em uma plataforma de pedra .
+55.png#1	Um canhão cercado por uma mureta branca apontando para o mar .
+55.png#2	Um canhão antigo apontando para o litoral com barcos ao fundo .
+55.png#3	Canhão grande e enferrujado em um possível forte .
+55.png#4	Canhão cercado por uma parede branca próximo à àrvore .
+56.png#0	Um grande edifício branco com telhado laranja .
+56.png#1	Um enorme edifício cercado por palmeiras e outras árvores . 
+56.png#2	Forte branco com um edifício menor conectado .
+56.png#3	Edifício cercado por muros semelhantes ao de um forte .
+56.png#4	Forte branco com casarão central e alguns veículos estacionados na área externa .
+57.png#0	Um edifício alto, branco, com uma torre de relógio e uma cúpula no topo .
+57.png#1	Edifício com diversas janelas e uma entrada principal em arco .
+57.png#2	Edifício em tons de bege com porta única gradeada .
+57.png#3	Edifício bege e branco com dois quadros ou banners pendurados em frente .
+57.png#4	Um edifício branco e bege cercado por alguns postes de luz com janelas em vermelho .
+58.png#0	Um edifício em tons claros com pessoas por perto .
+58.png#1	Edifício cercado por mureta bege com detalhes brancos . 
+58.png#2	Edifício rodeado por vegetação .
+58.png#3	Um edifício com muros na cor creme e branca .
+58.png#4	Edifício em tons claros com jardim repleto de árvores e arbustos . 
+59.png#0	Uma escultura de bronze de uma mulher segurando um bambolê em uma grande paisagem urbana .
+59.png#1	Uma paisagem urbana caracterizada por uma série de prédios altos .
+59.png#2	Escultura de bronze numa base estável em granito preto próxima à prédios .
+59.png#3	Escultura de bronze com base em granito cituada em uma vasta área urbana .
+59.png#4	Uma estátua em bronze de uma mulher com prédios ao fundo .
+60.png#0	Um edifício grande situado numa esquina, apresenta algumas árvores .
+60.png#1	Edifício com esquema de cores vibrantes, amarela e vermelha .
+60.png#2	Grande edifício de dois andares com diversas janelas vermelhas superiores .
+60.png#3	Um edifício branco com detalhes ornamentados em amarelo vibrante .
+60.png#4	Edifício cercado por muretas cinzas e grades vermelhas .
+61.png#0	Uma igreja branca de dois andares com três portas no primeiro andar e duas sacadas superiores .
+61.png#1	Igreja branca com detalhes marrons de portas e janelas na cor turquesa.
+61.png#2	Uma antiga igreja branca com pequenos degraus para a entrada .
+61.png#3	Igreja de dois andares com uma cruz em seu topo .
+61.png#4	Uma igreja alta com ornamento circular no topo . 
+62.png#0	Um castelo de pedra que parece estar em ruínas .
+62.png#1	Um castelo de pedra com muralhas e diversas torres .
+62.png#2	Castelo situado em um terreno verde e relvado .
+62.png#3	Um castelo de pedras histórico e nostálgico . 
+62.png#4	Castelo com um caminho ou entrada notável que atravessa as muralhas do castelo .
+63.png#0	Um edifício antigo e branco com portas vermelhas .
+63.png#1	Edifício com letreiro com "SINAGOGA KAHAL ZUR ISRAEL" .
+63.png#2	Um prédio antigo de dois andares com fachada amarela e quatro portas vermelhas .
+63.png#3	Edifício histórico escrito "SINAGOGA KAHAL ZUR ISRAEL" com pessoas dentro .
+63.png#4	Um grande edifício amarelo antigo de dois andares .
+64.png#0	Um edifício alto e ornamentado com fachada de azulejos amarelos e verdes .
+64.png#1	O edifício de dois andares com janelas em arcos brancos .
+64.png#2	Um grande prédio amarelo com sacadas em cada andar .
+64.png#3	Edifício com detalhes brancos e azulejos amarelos .
+64.png#4	Edifício alto com janelas venezianas na cor turquesa .
+65.png#0	Um edifício alto e ornamentado com um estilo arquitetônico único e histórico .
+65.png#1	Edifício histórico com telhado abobadado .
+65.png#2	Edifício bege com detalhes brancos e muitas janelas .
+65.png#3	Um grande edifício único em uma esquina movimentada por pessoas e veículos .
+65.png#4	Edifício bege possivelmente um banco histórico .
+66.png#0	Um edifício antigo amarelo, com telhado abobadado e porta vermelha .
+66.png#1	Grande edifício amarelo com várias janelas brancas de detalhes vermelhos .
+66.png#2	Edifício alto com múltiplas cúpulas cinzas e torres .
+66.png#3	Edifício com diversas janelas, apresenta uma arquitetura ornamentada .
+66.png#4	Edifício de dois andares com pequena escadaria na entrada .
+67.png#0	Uma pequena e antiga igreja com exterior em tons de bege a rosa claro .
+67.png#1	Uma igreja com um campanário com uma cruz em seu topo .
+67.png#2	Igreja localizada na esquina de uma rua .
+67.png#3	Igreja salmão pequena com mureta em detalhes brancos .
+67.png#4	Igreja de portas e janelas marrons com vários vasos de plantas ao redor .
+68.png#0	Um grande canhão preto montado em uma parede branca de um pátio .
+68.png#1	Canhão em possível fortaleza antiga com diversas palmeiras .
+68.png#2	Canhão dentro de um pátio bem cuidado cercado por muretas brancas .
+68.png#3	Um grande canhão preto com várias palmeiras próximas .
+68.png#4	Canhão em uma fortaleza com um casarão central em cores claras .
+69.png#0	Uma grande e antiga igreja com telhado vermelho, posicionada no meio de um campo gramado .
+69.png#1	Igreja de pedra e com múltiplas janelas .
+69.png#2	Uma igreja rodeada por um campo verdejante .
+69.png#3	Igreja em tons de bege e telhado laranja com possíveis escadaria na entrada .
+69.png#4	Igreja com detalhes distintos, moldura circular em forma de flor, veículos e pessoas ao fundo .
+70.png#0	Um grande edifício vermelho com detalhes brancos nas portas e janelas .
+70.png#1	Edifício com uma placa escrita "Justiça" .
+70.png#2	Edifício com pessoa do lado externo, possivelmente entrando .
+70.png#3	Um edifício vermelho com detalhes em branco com características arquitetônicas no estilo colonial espanhol .
+70.png#4	Grande edifício com portas e pequenas janelas em arcos .
+71.png#0	Uma construção em tons amarelados com grandes janelas .
+71.png#1	Edifício em tons pastéis com diversas janelas .
+71.png#2	Grande edifício de dois andares amarelo com janelas de vidro e madeira.
+71.png#3	Uma construção com formas arredondadas e cor amarela .
+71.png#4	Edifício de topo arredondado diagonalmente .
+72.png#0	Estátua de um homem em frente à uma palmeira e edifício atrás .
+72.png#1	Estátua a frente de uma palmeira e de uma estrutura .	
+72.png#2	Estátua de um homem com palmeiras atrás .
+72.png#3	Estátua sobre um pódio com uma construção atrás .
+72.png#4	Estátua de um homem com um ginásio atrás .
+73.png#0	Capela azul com detalhes brancos e com porta branca .	
+73.png#1	Capela de concreto base de pedra e cor branca .
+73.png#2	Capela danificada a frente de muro cinza .
+73.png#3	Capela de colocação branca e azul sobre uma base quadrada de concreto .
+73.png#4	Capela sobre uma base cinza com muro cinza atrás .
+74.png#0	Edifício de coloração e janelas azuis .
+74.png#1	Casa de cor azul e portas de madeira .	
+74.png#2	Construção retangular com cores azuis .
+74.png#3	Casa com diversas janelas da cor azul .
+74.png#4	Edifício de forma retangular e janelas azuis .
+75.png#0	Obelisco branco cercado de árvores .
+75.png#1	Obelisco com árvores e cerca branca e prédios ao fundo .	
+75.png#2	Obelisco e árvores cercados por uma grade .
+75.png#3	Árvores cercando um obelisco de colocação branca .
+75.png#4	Obelisco cercado por árvores e grade branca .
+76.png#0	Farol vermelho e branco cercado pelo mar .
+76.png#1	Farol sobre rochas e mar azul .
+76.png#2	Um farol sobre pedras rodeador pelo mar  .
+76.png#3	Farol vermelho e branco sobre a costa .
+76.png#4	Farol vermelho e branco próximo à pedras . 
+77.png#0	Grande lances de escadas e pessoas subindo .
+77.png#1	Escada cercada por árvores grandes.
+77.png#2	Uma longa escadaria cercada por árvores.
+77.png#3	Escadaria cercadas por árvores.
+77.png#4	Grande lances de escadas.
+78.png#0	Muralha antiga com arbusto ao lado .
+78.png#1	Muro destruído com plantas ao lado .
+78.png#2	Parede antiga com edifícios atrás .
+78.png#3	Construção antiga com plantas por perto .
+78.png#4	Contrução destruida com arbusto por perto .
+79.png#0	Edifício com porta central em vidro e portas laterais em madeira.
+79.png#1	Edifício branco com porta de vidro .
+79.png#2	Edifício de colocação branca e janelas de madeira .
+79.png#3	Edifício na cor branca com porta de vidro e janelas em madeira .
+79.png#4	Edifício branco com grande porta feita de vidro .
+80.png#0	Grande igreja antiga de cor branca .
+80.png#1	Casarão branco com diversas janelas e cruz no topo .
+80.png#2	Grande igreja de coloração branca .
+80.png#3	Grande igreja branca com várias janelas .
+80.png#4	Igreja de cor e janelas brancas.
+81.png#0	Ponte com vista para um rio .
+81.png#1	Uma ponte e edifícios ao fundo .
+81.png#2	Ponte com detalhes amarelos e vermelhos com grande árvore à direita .
+81.png#3	Ponte com vista para um rio e prédios ao fundo .
+81.png#4	Passarela sobre um rio com uma árvore à direita e vários edifícios ao fundo.
+82.png#0	Imagem em preto e branco de cidade histórica .
+82.png#1	Imagem antiga de uma cidade com uma carruagem notável .
+82.png#2	Imagem em preto e branco de um monumento em arco histórico com cruz em seu topo .
+82.png#3	Fotografia em preto e branco de cidade antiga e um edifício com um grande arco central .
+82.png#4	Imagem antiga em preto e branco de cidade com pessoas caminhando ao fundo .
+83.png#0	Fotografia antiga em preto e branco com arco entre dois edifícios .
+83.png#1	Fotografia em preto e branco de monumento com cruz no topo .
+83.png#2	Foto antiga em preto e branco de monumento de uma cidade .
+83.png#3	Fotografia antiga em preto e branco com letreiro evidente escrito "VENDAS", “LOJA DO BARATEIRO” a esquerda e “LIVRARIA” a direita .
+83.png#4	Fotografia em preto e branco com arco e cruz no topo com prédios ao fundo .
+84.png#0	Estátua sobre um pedestal vermelho com detalhes laranjas .
+84.png#1	Estátua de ferro sobre um pedestal vermelho e amarelo .
+84.png#2	Estátua metálica sob pedestal e espaço urbano de fundo .
+84.png#3	Estátua da deusa At braço direito levantado sobre um pedestal em espaço urbano .
+84.png#4	Estátua de uma mulher com o braço direito levantado sobre um pedestal em espaço urbano e prédios ao fundo .
+85.png#0	Um aqueduto histórico em pedra amarelada, com três arcos distintos .
+85.png#1	Um aqueduto em pedra amarelada e casas ao fundo .
+85.png#2	Monumento de arquitetura antiga com três grandes arcos lado a lado .
+85.png#3	Antigo aqueduto com três arcos de pedra lado a lado .
+85.png#4	Um aqueduto em tons de bege e amarelo feito de pedra, com três arcos evidentes .
+86.png#0	Estátua de mulher sobre um pedestal .
+86.png#1	Grande estátua metálica da deusa Deméter sobre um pedestal segurando algo .
+86.png#2	Estátua de ferro de uma deusa .
+86.png#3	Grande estátua cinza de uma mulher sobre um pedestal vermelho segurando algo com a mão direita .
+86.png#4	Estátua de uma mulher feito em ferro fundido sobre um pedestal vermelho .
+87.png#0	Estátua da deusa do comércio em pé sobre um pedestal vermelho .
+87.png#1	Estátua de ferro sobre um pedestal vermelho com cidade ao fundo .
+87.png#2	Estátua da deusa Hermes e uma placa metálica no pedestal .
+87.png#3	Estátua de mulher em pé segurando um cajado com a mão esquerda sobre um pedestal .
+87.png#4	Estátua de uma mulher em pé sobre um pedestal e árvores ao fundo .
+88.png#0	Uma cruz vermelha no topo de uma colina com vegetação de caatinga mista e mata serrana .
+88.png#1	Cruz vermelha em topo de uma colina e plantas baixas ao fundo .
+88.png#2	Cruz rodeada por três pequenos postes de iluminação com um banco vermelho e verde .
+88.png#3	Cruz de madeira vermelha cercada por três postes brancos e mapa serrana ao fundo.
+88.png#4	Cruz em topo de colina rodeada por três postes e um banco com detalhes verde e vermelho .
+89.png#0	Estátua de ferro sobre pedestal vermelho e amarelo em dia nublado .
+89.png#1	Estátua metálica da deusa da justiça com prédios ao fundo .
+89.png#2	Estátua de mulher sobre pedestal vermelho e amarelo em rua vazia e prédios ao fundo .
+89.png#3	Estátua da deusa Témis sobre um pedestal vermelho com detalhes amarelos e prédios ao fundo .
+89.png#4	Estátua de mulher em metal sobre pedestal em uma cidade .
+90.png#0	Desenho preto e branco de cidade antiga com uma grande igreja no centro .
+90.png#1	Desenho preto e branco de cidade antiga com uma grande igreja no centro e algumas pessoas caminhando em frente .
+90.png#2	Desenho preto e branco de cidade antiga com uma grande igreja entre dois prédios .
+90.png#3	Imagem em preto e branco de cidade colonial com uma grande igreja entre dois prédios antigos com pessoas em frente .
+90.png#4	Desenho preto e branco de cidade antiga com uma igreja com uma cruz no topo .
+91.png#0	Um cruzeiro de madeira com base na cor branca e detalhes amarelos, com uma igreja ao fundo .
+91.png#1	Um cruzeiro de madeira em frente a uma igreja branca com os detalhes amarelos e janelas azuis .
+91.png#2	Um cruzeiro de madeira fixado em uma plataforma branca com os detalhes amarelos e igreja ao fundo .
+91.png#3	Um cruzeiro de madeira em frente à uma igreja branca com detalhes amarelos .
+91.png#4	Um cruzeiro de madeira religioso em frente a uma igreja branca .
+92.png#0	Uma estrutura antiga de cor branca e com ornamentos amarelos com um portal central feito de pedras .
+92.png#1	Uma estrutura militar de cor branca e ornamentos amarelos e um portal principal de pedras .	
+92.png#2	Estrutura antiga de cor branca com ornamentos amarelos com um portal principal feito de pedras, com três pessoas .
+92.png#3	Estrutura antiga na cor branca, com ornamentos amarelos e possíveis turistas  .
+92.png#4	Um monumento branco antigo com ornamentos amarelos e um portal central de pedras .	
+93.png#0	Um bondinho em direção a um antigo depósito de bondes .
+93.png#1	Um bondinho em direção a um depósito de bondes fechado, no qual tem um grande arco de ferro em cima da estrutura do depósito de bondes .
+93.png#2	Avenida em frente a um depósito de bondes, tendo ao lado um bonde estacionado perto das linhas .
+93.png#3	Um bondinho se aproximando de uma estrutura grande com um portão de ferro com uma grande cruz em cima .
+93.png#4	Uma avenida contínua com um bonde à direita e uma grande estrutura com um portão .
+94.png#0	Uma ponte verde com barras na cor amarela e vermelho sobre um rio .
+94.png#1	Uma ponte sobre um rio com vários prédios antigos ao fundo .
+94.png#2	Uma ponte verde com prédios ao fundo .
+94.png#3	Uma ponte com barras na cor amarela e vermelho .
+94.png#4	Ponte verde com detalhes vermelhos e amarelos com postes de luz sobre um rio .
+95.png#0	Ponte em tons de azul e cinza com detalhes amarelo claro sobre um rio com vários postes de luz em todo o seu percurso .
+95.png#1	Uma ponte na cor azul e amarelo claro com um ônibus de cor azul com branco .
+95.png#2	Ponte de cor azul e amarelo claro que atravessa um rio cercado por vegetação .
+95.png#3	Uma ponte sobre um rio próxima de um grande centro urbano com vários prédios e casas ao fundo .
+95.png#4	Uma ponte de cor azul e amarelo claro, ligando partes da cidade .
+96.png#0	Uma ponte com barras de proteção azuis na horizontal e amarelas na vertical sobre um rio .
+96.png#1	Uma ponte sobre um rio com postes azuis com vegetação e embarcações ao fundo .
+96.png#2	Uma ponte sobre um rio com um prédios ao fundo  .
+96.png#3	Ponte com barras de proteção azuis na horizontal e amarelas na vertical com várias árvores ao fundo .
+96.png#4	Uma ponte azul e amarela sobre um rio e ao fundo barcos de pesca, prédios e várias árvores .
+97.png#0	Uma igreja branca com ornamentos em tons de marrom e portas na cor azul claro .
+97.png#1	Uma igreja alta com detalhes na cor marrom e portas na cor azul claro, com cinco sacadas .
+97.png#2	Uma igreja de dois andares com duas torres sineiras altas e cinco sacadas .
+97.png#3	Uma igreja na cor branca e detalhes em tons de marrom com um prédio antigo ao fundo .
+97.png#4	Igreja branca com detalhes na cor marrom e portas em tons de azul claro .
+98.png#0	Uma estrutura cilíndrica com quatro cobras em suas laterais cercada por esculturas .
+98.png#1	Uma estrutura monumental que se assemelha a um pilar adornado com serpentes com uma entrada em sua base .
+98.png#2	Um monumento cilíndrico em uma ponte próximo à uma cidade .
+98.png#3	Um monumento em formato de pilar próximo a um paredão de pedras com vários prédios e casas ao fundo .
+98.png#4	Uma estrutura monumental de formato cilíndrico localizado no mar próxima à um centro urbano .
+99.png#0	Um prédio antigo vermelho com detalhes brancos e uma árvore à direita do prédio .
+99.png#1	Um edifício vermelho com ornamentos brancos em uma avenida .
+99.png#2	Um grande prédio vermelho com detalhes na cor branca ao lado de um prédio antigo na cor cinza .
+99.png#3	Um edifício com portas na cor branca e alguma grades .
+99.png#4	Um prédio antigo vermelho com ornamentos brancos com uma coberta na cor vermelho escuro .
+100.png#0	Um monumento cilíndrico na cor cinza com uma cruz em seu topo cercado por uma cerca circular .
+100.png#1	Um monumento com cerca e vários barcos de pesca no fundo .
+100.png#2	Um monumento cinza com uma cruz cercado por grade circular em um gramado .
+100.png#3	Um monumento cinza alto com uma cruz e barcos ao fundo  .
+100.png#4	Um estrutura cinza com uma cruz no topo .
+101.png#0	Bica em estilo colonial na cor branca com detalhes em amarelo ocre, tem em sua frente uma janela com grade cor preta e acima dele uma escultura com curvas típica do barroco .
+101.png#1	Bica estilo antiga  ao redor de uma mata densa e com algumas flores no canto superior direito nas cores laranja e violeta .
+101.png#2	Bica estilo colonial cor branca com detalhes em amarelo com uma janela com grades na frente, dois símbolos feitos em esculturas nas partes laterais e uma estrutura esculpida na parte de cima da janela .
+101.png#3	Bica estilo arquitetura barroca, na cor branca com detalhes amarelos, janela com grade e uma mata densa ao seu redor .
+101.png#4	Bica em estilo arquitetura colonial na cor branca com detalhes em amarelos, tem na parte superior uma escultura com curvas típica do barroco, uma janela com grades .
+102.png#0	Um parque com árvores com copas altas, bancos para descanso e um escorregador no centro .
+102.png#1	Um parque com árvores, bancos de pedra e casas vermelhas ao fundo .
+102.png#2	Um parque com diversas árvores e local de lazer no centro .
+102.png#3	Uma praça com árvores de diferentes tipos e tamanhos, bancos de pedra e uma área de lazer para crianças .
+102.png#4	Uma praça com árvores grandes e brinquedos para crianças no centro .
+103.png#0	Residência modelo colonial do século XIX cor branca com portas e janelas azuis cercada por vegetação .
+103.png#1	Casa na cor branca com fachada larga com janelas azuis arredondadas com uma janela central na parte de cima do telhado .
+103.png#2	Casa branca, com telhado laranja, janelas e portas azuis e fachada com canteiro de flores .
+103.png#3	Grande edifício modelo colonial século XIX com gramado, canteiro em um local arborizado .
+103.png#4	Casarão com fachada larga, seis janelas azuis e uma porta na parte central da frente, também de cor azul .
+104.png#0	Igreja cor branca com três portas, a principal  ao centro, outra um pouco deslocada à esquerda e dois sinos .
+104.png#1	Igreja cor branca com cruz na parte superior, uma porta principal com duas janelas .
+104.png#2	Igreja simples e pequena em ambiente arborizado, acima de um patamar com alguns degraus feitos em pedra .
+104.png#3	Igreja simples em região arborizada com uma torre lateral com dois sinos lado a lado e uma cruz no centro .
+104.png#4	Igreja cor branca com dois sinos em uma torre lateral, uma porta central e duas janelas na parte superior .
+105.png#0	Monumento antigo, estilo medieval danificada e tomada por vegetação em uma possível trilha .
+105.png#1	Monumento coberto por musgo repleto de plantas rasteiras no meio de uma floresta .
+105.png#2	Arcos modelo antigo estilo medieval com vegetação e lodo em sua superfície .
+105.png#3	Arcos no estilo medieval feita em tijolos com bastante plantas e raízes cobrindo sua superfície .
+105.png#4	Arco de porta e uma janela, danificada e tomada por vegetação no meio de uma floresta densa .
+106.png#0	Beco entre dois casarões antigos com portas e janelas verdes, um de azulejos amarelos, o outro com azulejos azuis .
+106.png#1	Beco entre dois casarões modelo arquitetura do século XIX com rua de pedras .
+106.png#2	Beco entre dois prédios residenciais com colunas brancas modelo antigo, prédio à esquerda amarelo e à direita azul .
+106.png#3	Beco entre dois casarões antigos com detalhes branco, um amarelo e outro azul .
+106.png#4	Beco estreito, entre dois casarões antigos com portas e janelas grandes na cor verde .
+107.png#0	Igreja cor branca com detalhes em bege, com duas torres sineiras, uma porta central grande na cor verde .
+107.png#1	Uma igreja alta com duas torres laterais e dois sinos, uma cruz no topo .
+107.png#2	Igreja antiga, com cruz no centro, duas torres altas nas laterais, portas verdes e brancas .
+107.png#3	Igreja estilo antigo, cor branca com detalhes bege, portas e janelas verdes, bancos e vasos de planta do lado de fora na lateral .
+107.png#4	Igreja com duas torres e dois sinos com uma porta central grande cor verde e duas portas brancas, com três sacadas na parte superior .
+108.png#0	Edifício grande e antigo, modelo arquitetura clássica com diversas janelas de vidro, uma porta central e uma sacada na parte superior, acima da porta principal .
+108.png#1	Edifício de dois andares modelo de arquitetura clássica com diversas janelas, uma porta central, duas torres com relógios, árvores e estacionamentos de carros ao redor do prédio .
+108.png#2	Edifício com fachada ampla, estilo arquitetura espanhola, trẽs andares com diversas janelas, uma porta central e uma sacada acima rodeador com estacionamento de carros ao redor e um amplo jardim de árvores e gramas .
+108.png#3	Edifício amplo com arquitetura modelo antigo, na cor branca e detalhes das janelas amarelados, diversas janelas de vidro, duas torres com relógios, porta central marrom e sacada na parte superior .
+108.png#4	Prédio com arquitetura clássica, dois andares e diversas janelas, com uma porta principal e carros, árvores e arbustos ao redor .
+109.png#0	Igreja com branca com detalhes amarelos, possui duas torres, ambas com uma cruz em sua superfície .
+109.png#1	Igreja com de dois andares, duas torres,  cinco portas marrons e quatro janelas superiores .
+109.png#2	Igreja cor branca com duas torres, portas cor marrom e detalhes amarelos estilo arquitetura grega, com colunas amarelas .
+109.png#3	Igreja com duas torres e cinco portas marrons com uma sacada .
+109.png#4	Igreja modelo antigo, com duas torres, portas na cor marrom e janelas com vitrais em forma de círculos .
+110.png#0	Rua que passa por dentro de uma arquitetura antiga feita em pedra com amarelo claro, com caminho feito também em pedras, porém de cor cinza escuro .
+110.png#1	Corredor que passa por dentro de um prédio de arquitetura antiga feito em pedras, no início do corredor tem um poste de luz modelo antigo cor preta .
+110.png#2	Rua que passa dentro de um edifício feito em pedra cor amarelo claro, na entrada tem um grande arco também feito em pedras .
+110.png#3	Rua que passa por dentro de uma construção feita totalmente em pedras, ao redor tem um poste antigo na entrada, ao lado um pequeno prédio com portas de madeira e vidro, com uma sacada na parte superior .
+110.png#4	Rua que passa dentro de um prédio modelo antigo feito em pedra, rua também feita em pedra, poste estilo colonial na entrada da rua .
+111.png#0	Edifício antigo com torre e muros de pedra, e uma escada no centro .
+111.png#1	Monumento histórico construído em pedra com uma escada espiral no centro .
+111.png#2	Grande construção de pedra com muros ao redor e uma escada em espiral no centro .
+111.png#3	Construção antiga feita em pedra com uma torre no centro e uma porta de madeira .
+111.png#4	Construção histórica feita em pedra com uma escada no centro .
+112.png#0	Grande edifício antigo com várias janelas de vidro .
+112.png#1	Monumento histórico com chaminés no topo e telhado vermelho .
+112.png#2	Edifício antigo com janelas de vidro e uma torre cercada por um muro ao lado .
+112.png#3	Monumento antigo com uma torre e um prédio ao lado em tons de cores claras de amarelo .
+112.png#4	Antigo monumento construído com azulejos nas paredes .
+113.png#0	Grande monumento construído ao redor de uma praça com escadas na entrada .
+113.png#1	Monumento antigo com colunas em forma de arco na entrada e várias janelas ao redor .
+113.png#2	Edifício antigo com um grande telhado de cor vermelha .
+113.png#3	Monumento antigo construído ao redor de uma praça com uma torre do relógio ao lado .
+113.png#4	Prédio antigo construído em tons claros de branco e detalhes amarelos .
+114.png#0	Monumento histórico com várias janelas de vidro em forma de arco .
+114.png#1	Antigo edifício com colunas arredondadas na entrada e uma varanda em cima .
+114.png#2	Monumento antigo com tons claros de rosa e detalhes em branco .
+114.png#3	Edifício antigo com escadas na entrada e portas em forma de arco .
+114.png#4	Sobrado antigo com várias janelas e grades de ferro nas sacadas .
+115.png#0	Antigo monumento faroleiro construído com chaminés no telhado .
+115.png#1	Farol antigo construído no topo de um prédio .
+115.png#2	Monumento faroleiro construído em tons claros de amarelos com detalhes em branco e vermelho no farol .
+115.png#3	Monumento histórico construído ao redor de uma praça com um farol no centro .
+115.png#4	Antigo farol construído no topo de um prédio antigo com janelas de vidro .
+116.png#0	Prédio antigo construído ao redor de uma escadaria .
+116.png#1	Prédio antigo construído em tons claros de amarelo e branco .
+116.png#2	Antigo monumento construído de pedra com uma chaminé e uma torre sineira ao lado .
+116.png#3	Monumento histórico com uma torre do relógio ao lado e um sino no topo .
+116.png#4	Prédio histórico com portas e janelas de madeira e uma escada na entrada .
+117.png#0	Ponte suspensa construída próxima a um rio .
+117.png#1	Ponte de suspensa construída de metal com cabos de aço e piso de madeira .
+117.png#2	Ponte de metal arredondada construída de forma suspensa .
+117.png#3	Ponte de metal construída ao redor de um rio suspensa por cabos de aço e estruturas de ferro .
+117.png#4	Ponte circular em metal de arquitetura moderna sobre um rio ou lago .
+118.png#0	Antiga igreja com um torre sineira ao lado .
+118.png#1	Igreja histórica com tons de cores claras de branco e detalhes em amarelo .
+118.png#2	Igreja histórica com portas e janelas com tons de azul .
+118.png#3	Antiga igreja com um cruz no topo da entrada .
+118.png#4	Igreja histórica com uma grande porta na entrada e uma janela em formato de arco logo acima .
+119.png#0	Vista aérea de uma praça com decoração natalina no centro .
+119.png#1	Vista aérea de uma praça arborizada com decorações natalinas .
+119.png#2	Grande praça com árvores no centro .
+119.png#3	Vista de uma praça grande com enfeites natalinos no centro .
+119.png#4	Grande praça arborizada no centro com detalhes de decoração natalinos .
+120.png#0	Prédio antigo com colunas na fachada e várias portas e janelas .
+120.png#1	Prédio antigo com várias janelas e uma torre ao lado .
+120.png#2	Casarão antigo com tons claros de branco e detalhes em turquesa .
+120.png#3	Casarão antigo construído ao redor de um pequeno muro e um jardim arborizado .
+120.png#4	Antigo casarão com uma sacada no segundo andar e várias janelas ao redor .
+121.png#0	Igreja antiga com três árvores na frente .
+121.png#1	Uma igreja danificada cercada por árvores .
+121.png#3	Igreja antiga abandonada que se encontra no matagal .
+121.png#2	Entrada de uma igreja antiga rodeada por árvores .
+121.png#4	Uma igreja abandonada rodeada de árvores e grama .
+122.png#0	Vários prédios com uma torre de relógio à frente e uma bandeira vermelha .
+122.png#1	Visão urbana de uma cidade que tem carros estacionados na frente de prédios .
+122.png#2	Torre de relógio que se encontra à frente de carros estacionados e prédios .
+122.png#3	Fila de carros e prédios com uma torre de relógio com bandeira vermelha evidente .
+122.png#4	Uma torre de relógio próxima à ponte com alguns prédios e carros estacionados .
+123.png#0	Farol preto e branco de frente pro mar com casas ao fundo .
+123.png#1	Faro com casas e palmeiras ao redor .
+123.png#2	Um farol na praia de um cidade .
+123.png#3	Um farol em uma praia cercado por casas e palmeiras .
+123.png#4	Farol com cidade e palmeiras ao redor .
+124.png#0	Uma igreja com uma cruz em frente .
+124.png#1	Igreja pequena na cor verde com árvores ao redor e uma cruz em sua frente .
+124.png#2	Igreja verde com detalhes brancos e uma cruz marrom em sua frente .
+124.png#3	Uma igreja pequena com cruz a sua frente e motocicletas à sua direita com árvores ao redor  .
+124.png#4	Uma pequena igreja verde de colunas brancas que tem uma cruz a sua frente .
+125.png#0	Fonte de água de pedras em tons de bege
+125.png#1	Fonte de pedra no formato de meio círculo
+125.png#2	Fonte com uma escultura da face de um leão
+125.png#3	Fonte de pedras pequena, que tem água e uma escultura de um leão
+125.png#4	Fonte de agua antiga, feita de pedras e contém um degrau
+126.png#0	Estátua de busto de um homem com um poste ao lado .
+126.png#1	Estátua com plantas ao seu redor e um poste apagado .
+126.png#2	Estátua de um homem em um jardim verde que tem um posta ao seu lado .
+126.png#3	Estátua de busto de homem na cor preta, com base de concreto e um poste ao seu lado .
+126.png#4	Estátua escura no meio de um jardim verde .
+127.png#0	Escultura longa que simulam três rostos e estacionamento de carros ao fundo .
+127.png#1	Um monumento laranja com carros alinhados e um muro branco ao fundo .
+127.png#2	Escultura longa em frente à  árvores carros e um muro branco .
+127.png#3	Uma estátua laranja atrás de uma placa cinza escrita “LOUSÃ, PELOURINHO DA LOUSÃ” .
+127.png#4	Escultura com estacionamento de carros perto de algumas casas e árvores .
+128.png#0	Casas à beira de um rio ligadas por uma ponte .
+128.png#1	Um rio com uma ponte com casas e áreas de vegetação ao seu redor  .
+128.png#2	Grande rio com reflexo de ponte, casas e vegetação .
+128.png#3	Uma ponte sob um rio para ligar casas .
+128.png#4	Casas com cercas ao redor de um rio .
+129.png#0	Casa branca antiga com portão verde e várias janelas .
+129.png#1	Casa com várias janelas e portas .
+129.png#2	Casa com algumas falhas na parede que tem arquitetura antiga .
+129.png#3	Casa antiga que tem várias janelas e portas .
+129.png#4	Casa branca com rodapé vermelho .
+130.png#0	Cômodo antigo com várias janelas e portas .
+130.png#1	Prédio histórico com plantas na parede .
+130.png#2	Alojamento antigo com portão de cor verde escura .
+130.png#3	Condomínio antigo em uma rua de pedras .
+130.png#4	Prédio antigo com visão para rua .
+131.png#0	Uma estátua de um homem com roupas antigas .
+131.png#1	Um santo com vestes escuras, segurando uma bíblia e um pombo .
+131.png#2	Uma estátua religiosa, com 4 estruturas triangulares ao seu redor .
+131.png#3	Estátua de São Francisco, vista por um ângulo lateral .
+131.png#4	Uma estátua de São Francisco em pé sobre uma plataforma .
+132.png#0	Praça com uma igreja branca ao fundo e um canteiro com árvores .
+132.png#1	Uma praça com diversas árvores, duas tendas brancas, uma silhueta no centro da praça e igreja no fundo .
+132.png#2	Uma praça com uma igreja azul com branca e alguns brinquedos para crianças no lado esquerdo .
+132.png#3	Uma praça cercada por diversas árvores e uma igreja branca, destacando-se ao fundo .
+132.png#4	Uma praça com uma igreja branca e portas azul em destaque, árvores e um playground .
+133.png#0	Um prédio com uma estrutura enorme e uma escultura de pedras na entrada .
+133.png#1	Um museu amplo e moderno, dotado de grandes janelas e colunas .
+133.png#2	Uma grande estrutura ao fundo, uma árvore, uma escultura em pedra e dois carros à direita .
+133.png#3	Edifício semelhante a um Museu, com colunas enormes e grandes janelas na frente .
+133.png#4	Um prédio com carros estacionados na sua direita, uma escultura de concreto e janelas enormes .
+134.png#0	Igreja com estrutura assimétrica e uma bicicleta azul na frente .
+134.png#1	Uma igreja branca com estrutura assimétrica .
+134.png#2	Igreja branca com uma porta de madeira branca e uma de vidro .
+134.png#3	Uma igreja com uma cruz no seu topo e pequenos vasos de plantas na frente .
+134.png#4	Uma igreja católica com uma grande árvore à esquerda e uma bicicleta azul em frente .
+135.png#0	Falésias e areia, com um pouco de vegetação à direita .
+135.png#1	Paredões elevados e de declividade acentuada .
+135.png#2	Uma vasta e pacífica paisagem desértica .
+135.png#3	Montes de areia formam essa paisagem .
+135.png#4	Suave colina arenosa com falésias ao fundo .
+136.png#0	Uma estátua de um homem, sob um pedestal de concreto .
+136.png#1	Uma praça que em seu ponto central tem um homem sendo homenageado .
+136.png#2	Estátua de busto de homem montada em um pedestal localizado no meio de uma área circular de grama .
+136.png#3	Estátua verde em uma praça antiga e com uma área verde ampla, contando com diversas estruturas de concreto .
+136.png#4	Estátua verde em busto de um homem cercado por diversas árvores e um jardim .
+137.png#0	Estátua verde de um homem com base cinza quadrangular .
+137.png#1	Busto de estátua verde, mostrando a cabeça e a parte superior do tronco de um homem .
+137.png#2	Uma estátua sobre um pedestal, situado no meio de um parque verde cercado por árvores .
+137.png#3	Estátua verde de busto de um homem com bigode, repleto de árvores secas e outras bem verdes robustas .
+137.png#4	Estátua verde com base de concreto cinza composta por diversos blocos pequenos .
+138.png#0	Cidade com castelo, edifícios e uma vasta área verde .
+138.png#1	Vista aérea de um antigo castelo, muros de pedra, torres, casas com telhados vermelhos cercados por árvores .
+138.png#2	Castelo histórico com uma igreja, casas ao redor e vasta área verde .
+138.png#3	Castelo histórico no topo de uma colina com muros de pedra e uma floresta ao redor .
+138.png#4	Uma cidade com estrutura antiga, castelo e casas ao seu redor .
+139.png#0	Uma vila antiga com diversas casas .
+139.png#1	Casas antigas e uma torre de relógio em destaque .
+139.png#2	Encosta de vila serena com igreja, casas e árvores .
+139.png#3	Aldeia com casas brancas, telhados vermelhos, uma Igreja se destaca ao redor de várias árvores .
+139.png#4	Vila com cenário amplo com igreja, casas, colinas e uma vasta área com árvores .
+140.png#0	Obelisco grande e vermelho com árvores ao seu redor .
+140.png#1	Cena tranquila com obelisco vermelho cercado pela natureza .
+140.png#2	Obelisco vermelho no pátio sereno com árvores, bancos, céu azul e montanhas .
+140.png#3	Monumento arquitetônico vermelho ao lado de duas árvores .
+140.png#4	Obelisco vermelho em área verde aberta, cercada por árvores e montanhas ao fundo .
+141.png#0	Uma superfície com areia laranja com um forte ao fundo escrito nas paredes "área militar" e "marinha do Brasil" .
+141.png#1	Um forte com muros brancos e dentro uma torre alta e telhados laranjas .
+141.png#2	Um forte murado, escrito na parede "área militar" e "marinha do Brasil" e uma escadaria comprida dando para a entrada, dentro do terreno dá para visualizar uma torre elevada e telhados maiores que o muro de cor laranja .
+141.png#3	Uma estrutura fortificada em um campal de areia vermelha e mato baixo, com uma extensa escada em cimento que leva para uma porta de ferro .
+141.png#4	Uma robusta área murada exibe em seu interior uma torre e telhado laranja com um terreno arenoso e pequenas gramíneas .
+142.png#0	Uma igreja antiga com janelas de vidro .
+142.png#1	Uma igreja de torres com sino e entradas em arco .
+142.png#2	A fachada de uma igreja com textura de tijolo e detalhes vintages .
+142.png#3	Uma igreja de dois andares com entradas fechadas por portões pequenos de ferro .
+142.png#4	A fachada de uma igreja grande com detalhes em leve relevo .
+143.png#0	Uma igreja grande entre dois prédios antigos .
+143.png#1	Uma igreja com uma entrada muito ornamentada com duas torres em frente a um chafariz .
+143.png#2	Uma igreja com uma entrada  e uma sacada ornamentadas no estilo barroco e duas torres cor de creme e com telhado escuro em forma de cone .
+143.png#3	Uma igreja barroca com uma cruz principal e várias cruzes menores com entrada em arco entre dois prédios de fachada decorada .
+143.png#4	Uma igreja com entrada decorada com várias estátuas de anjos e santos com diversos detalhes barrocos .
+144.png#0	Diversas casas se sobressaem entre árvores .
+144.png#1	Há casas de diferentes tamanhos em foco e ao fundo uma igreja com uma torre alta .
+144.png#2	Casas de alturas e formas diferentes coexistem em uma zona rural .
+144.png#3	Árvores rodeiam uma cidade pequena .
+144.png#4	Casas diversas tem muros cobertos com plantas enquanto uma torre de igreja se destaca ao fundo .
+145.png#0	Uma estátua velha de um homem .
+145.png#1	A estátua de um homem que usa chapéu e roupas de épocas em cima de um pedestal .
+145.png#2	Uma estátua de pedra que traz uma homenagem a uma pessoa importante em cima de um pedestal e ao fundo um céu azul .
+145.png#3	A estatueta antiga de um homem com roupas curtas e pernas a mostra que carrega uma espada se apoiando numa estrutura baixa .
+145.png#4	Uma estatueta de pedra antiga de um homem em um pedestal que leva na algo na mão e uma espada pendurada nas roupas de épocas atrás .
+146.png#0	Um monumento em uma praça com uma árvore atrás .
+146.png#1	Um monumento antigo parecido com um poste de base quadrada e detalhes em relevo com uma coroa em seu topo, fica em uma praça de pedras brancas e pretas, pessoas estão na sombra de uma árvore que está ao lado do monumento .
+146.png#2	Uma pracinha abriga uma escultura velha, uma árvore grande e algumas pessoas idosas .
+146.png#3	A sombra de uma árvore grande cobre um monumento de pedra detalhado com uma coroa em uma praça em uma rua com lojas ao fundo .
+146.png#4	Um monumento de pedra pitoresco adornado com uma coroa, fica embaixo de uma árvore que faz sombra nos visitantes da praça .
+147.png#0	Uma igreja alta e branca com detalhes rosas .
+147.png#1	Uma igreja com uma fachada decorada com arcos rosas, com duas janelas e uma porta azuis .
+147.png#2	A fachada de uma igreja grande com arcos como detalhes num estilo tradicional antigo e porta e janelas de madeira azuis .
+147.png#3	Uma igreja branca com uma cruz no ponto mais alto do telhado .
+147.png#4	Igreja alta e branca com detalhes em leve relevo de arcadas rosas, as janelas e as portas são de madeira pintadas de azul com detalhes de losango, com uma cruz no ponto mais alto da construção .
+148.png#0	Uma represa em um rio .
+148.png#1	Uma represa em um rio entre partes de mata verde .
+148.png#2	Um rio represado com muitas árvores em volta .
+148.png#3	Um rio azul com uma barragem de concreto branco com uma mata densa em volta .
+148.png#4	Uma barragem de concreto grande em um curso de água com um matagal denso nos arredores .
+149.png#0	Uma bica branca com detalhes simples dourados .
+149.png#1	Uma bica branca com detalhes barrocos em dourados com uma casa rosa antiga ao fundo .
+149.png#2	Uma estrutura de drenagem água de uma sacada, com detalhes trabalhados pintados em dourado e com uma cruz pequena .
+149.png#3	Uma calha ornamentada com detalhes barrocos em relevo com a base em formato de retângulo e o topo em formato de cruz .
+149.png#4	Uma calha branca com detalhes dourados com um prédio pintado de rosa ao fundo .
+150.png#0	Um maquinário antigo no meio de uma sala com um chão de paralelepípedo vermelho .
+150.png#1	Uma máquina de madeira e ferro pretos no centro de um cômodo com uma escada ao fundo e portas e janelas de tábua .
+150.png#2	Uma sala tem em seu interior um maquinário arcaico que contrasta com as paredes brancas e chão vermelho .
+150.png#3	Um cômodo com duas portas, uma janela e uma escadaria tem um chão de paralelepípedo com uma máquina antiga bem no meio.  
+150.png#4	Uma máquina antiga descansa ao centro de uma sala, que tem um chão de alvenaria e paredes pintadas de branco e uma escada ao fundo .
+151.png#0	Torre sineira com portas, árvores e uma escada .
+151.png#1	Grande construção em forma de uma torre, com um sino, uma porta e uma escada .
+151.png#2	Torre sineira alta em meio à natureza .
+151.png#3	Torre branca e tons de bege com sino, porta, céu azul claro e árvores .
+151.png#4	Construção em formato de uma torre, com um sino, árvores no terreno .
+152.png#0	Uma igreja com um sino e uma cruz no topo, três portas na sua entrada e cinco nas laterais .
+152.png#1	Construção religiosa na cor azul, branco e marrom, sino centralizado no topo da igreja e diferentes entradas na frente e nas laterais .
+152.png#2	Uma igreja com três portas de cor azul na entrada, paredes em branco e marrom, uma cruz e um sino no topo .
+152.png#3	Igreja com três portas azuis de madeira na frente, um sino acima das portas, uma cruz no topo, entradas nas laterais e paredes com cores azul, marrom e branco .
+152.png#4	Igreja em tons de branco, azul e marrom, três molduras de flores esculpidas na parede da frente em cor azul .
+153.png#0	Vista  de casas, prédios e uma igreja, todos rodeados por um vasto cenário de árvores .
+153.png#1	Vila com arquitetura antiga, árvores ao redor, uma igreja, casas e prédios com tons de pedras, branco e portas na cor azul .
+153.png#2	Aldeia encosta com edifícios de pedra, telhados e portas azuis, árvores verdes, rodeadas por montanhas .
+153.png#3	Aldeia numa colina com casas de pedra, portas azuis, telhados vermelhos e edifício público branco .
+153.png#4	Aldeia em colina com diversas construções, rodeada de árvores .
+154.png#0	Estátua em formato de uma mulher com um grande vestido marrom, localizado entre duas vias urbanas .
+154.png#1	Monumento em forma de uma mulher, com um vestido marrom sobre pedras na cor branca. 	
+154.png#2	Estátua de mulher na praça da cidade com pessoas, edifícios, veículos .
+154.png#3	Grande estátua de mulher em estrutura marrom, prédios ao fundo, pessoas e carros à direita .
+154.png#4	Grande estátua de mulher na cor marrom com um vestido em uma área urbana e pedras espalhadas, edifícios ao fundo, pessoas e veículos presentes .
+155.png#0	Cena tranquila no convés com vista para a água, com a placa "TORGA" como ponto central .
+155.png#1	Grande placa com grade metálica ao lado de águas calmas. Palavra principal do letreiro: "TORGA” .
+155.png#2	Grande letreiro escrito: “TORGA”, cenário composto por reflexos do sol, sombras da placa e uma vista da água .
+155.png#3	Letreiro com peças metálicas, escrito: “TORGA” .
+155.png#4	Grande placa escrito: “TORGA”, em um ambiente com água, acompanhado de texto “De todos os cilícios, um, apenas,/Me” .
+156.png#0	Igreja com pintura em branco e verde, janelas em arco e duas torres .
+156.png#1	Igreja branca e verde claro com campanários altos e cruz, janelas em arco e uma sacada .
+156.png#2	Igreja alta, branca e verde claro, com detalhes arquitetônicos e ambiente sereno .
+156.png#3	Igreja branca e verde com torres, cruz, portas e janelas em um cenário  com um céu azul e nuvens brancas .
+156.png#4	Igreja branca com fachadas laterais pintadas de verde claro, campanários altos, cruz, arcos nas janelas, sacada e portas na frente e laterais da igreja .
+157.png#0	Prédio com vitrais coloridos em tons vibrantes e estilo arquitetônico exclusivo sacadas, um poste centralizado no pátio, uma pessoa de frente para uma obra de arte .
+157.png#1	Prédio com letreiro "Teatro José de Alencar" um edifício antigo e colorido com sacada e pátio .
+157.png#2	Prédio de dois andares com vitrais em pinturas vibrantes e estilo arquitetônico único .
+157.png#3	Teatro impressionante com sacada, design e cores grandiosas e uma pessoa no pátio .
+157.png#4	Teatro ornamentado com sacadas, uma placa colorida escrita "Teatro José de Alencar" e um pátio .
+158.png#0	Grande prédio denominado “Mercado da encruzilhada”, com uma fachada em cores creme, laranja e branco, o prédio possui grades ao redor .
+158.png#1	Mercado público, com três portas na entrada, diversas janelas no sentido vertical e letreiro com o nome “Mercado da encruzilhada” .
+158.png#2	Construção pública nas cores laranja, creme e branco, rodeada de grades de ferro, grandes portas na entrada, diversas janelas de vidro, calçada com grama e flores nas laterais .
+158.png#3	Mercado com prédio nas cores laranja, branco e creme, plantas do lado de fora, diversas janelas e três portas na entrada .
+158.png#4	Prédio em tons de laranja de dois andares com placa "Mercado da Encruzilhada". Pessoas dentro e fora cercado por grades e plantas .
+159.png#0	Aqueduto antigo com pilares, grama e um céu azul .
+159.png#1	Construção de pedras que formam diversos arcos, grama, sombras, caminho no lado direito e um carro azul quase imperceptível no fundo da imagem .
+159.png#2	Aqueduto antigo com arcos, campo gramado, sombras, céu azul .
+159.png#3	Pilares de pedras que formam arcos, grama, carro azul no fundo da imagem, caminho do lado direito .
+159.png#4	Antigo aqueduto com arcos em área gramada, sombras, carro e caminho .
+160.png#0	Grande estátua verde de um homem no parque, com pessoas, árvores e edifícios ao fundo .	
+160.png#1	Estátua verde de um homem, colocado sobre um bloco. Localizado em um parque com árvores, grama, bancos e pessoas .
+160.png#2	Monumento verde em formato de um homem, colocado sobre um bloco amarelo em um parque .
+160.png#3	Estátua verde no parque com árvores e bancos e pessoas ao fundo curtindo ao ar livre .	
+160.png#4	Parque tranquilo com estátua verde de um homem descalço em um parque .
+161.png#0	Estradas e uma muralha em estado de decadência com uma parte intacta .
+161.png#1	Pequenas concentrações de árvores em torno de uma montanha e trilhas que uma levam à uma muralha parcialmente destruída .
+161.png#2	Muralha bege que está em um relevo desnivelado .
+161.png#3	Muralha parcialmente destruída com ameias e em seu entorno trilhas de areia .
+161.png#4	Muralha com aberturas no topo com o formato de crenel .
+162.png#0	Estátua de um homem com trajes militares carregando um menino nos ombros e uma espingarda com a mão direita .
+162.png#1	A estátua de um militar na frente do estacionamento de um edifício .
+162.png#2	Um monumento aos heróis portugueses na Guerra Colonial portuguesa sobre um pedestal branco .
+162.png#3	Uma estátua, dois carros, um edifício e um estacionamento coberto .
+162.png#4	Uma estátua de um militar que olha para o lado esquerdo .
+163.png#0	Uma estátua do busto de um sujeito barbudo sobre um pedestal alto, bege e desbotado
+163.png#1	Estátua está rodeada de árvores de médio porte
+163.png#2	Estátua branca de pedra em uma praça
+163.png#3	Uma estátua à sombra de árvores e que apresenta em sua base uma estrutura de cimento pontiaguda dos dois lados da base
+163.png#4	Busto de pedra localizado em uma praça homenageando o poeta Antero de Quental
+164.png#0	Navio azul com a parte superior branca ancorado no cais .
+164.png#1	Grande navio com uma corrente de uma âncora dentro do mar .
+164.png#2	Embarcação azul com detalhes escritos em branco “Santo-André” e nas regiões brancas ele apresenta partes escritas em preto “A-267-AL” .
+164.png#3	Navio de grandes proporções azul e branco em águas calmas .
+164.png#4	Um grande navio próximo da costa ancorado no cais .
+165.png#0	Estátua branca com formas irregulares com três partes semelhantes à pessoas em uma praça .
+165.png#1	Estátua com três linhas irregulares sobrepostas, cada uma com bolas irregulares semelhantes à rostos .
+165.png#2	Uma grande praça com grama, árvores, e uma trilha próxima a um lampião que no centro apresenta uma escultura modernista .
+165.png#3	Estátua branca em uma praça com bancos e grama verde .
+165.png#4	Estátua branca de pedra com formas semelhantes à humanos em uma praça de grama verde .
+166.png#0	Uma construção com uma estátua de São José no topo .
+166.png#1	Construção grande cor mostarda com detalhes em branco .
+166.png#2	Construção larga com grandes portas marrom e cinco vitrais .
+166.png#3	Construção grande com dois jarros de plantas à sua frente e cinco portas .
+166.png#4	Construção com cinco portas marrons com vitrais brancos, sendo uma porta principal que vai até o chão e as outras com batente .
+167.png#0	Igreja com duas janelas e portas duplas, uma torre com um relógio e um sino .
+167.png#1	Igreja branca com duas janelas e portas pretas e um crucifixo entre as janelas .	
+167.png#2	Igreja com um sino e um relógio na parte mais alta com um para-raios no topo .	
+167.png#3	Uma construção branca com um crucifixo entre duas janelas pretas e outro na parte mais alta da capela .
+167.png#4	Uma construção branca com duas janelas escuras de madeira .
+168.png#0	Uma grande biblioteca com cadeiras confortáveis, mesas de madeira e estantes com milhares de livros, além de uma imagem central emoldurada com cores douradas .	
+168.png#1	Uma extensa biblioteca com livros lado a lado em várias estantes .	
+168.png#2	Uma grande biblioteca de dois andares e um quadro de um homem em roupas marrons ao lado de uma mesa vermelha .	
+168.png#3	Uma grande biblioteca com um quadro central com várias estátuas de querubins esculpidos .
+168.png#4	Uma biblioteca com um piano ao centro iluminada pela janela à esquerda com cortinas vermelhas .
+169.png#0	Câmara Municipal com estilo arquitetônico que remete ao do século XVIII .
+169.png#1	Câmara Municipal branca que apresenta dois andares em frente à um labirinto de arbustos e a estátua de um homem .
+169.png#2	Uma câmara com sete portas-janelas com sacadas no andar superior e quatro janelas e três portas-janelas no andar inferior .
+169.png#3	Câmara Municipal da Lousã com um grande jardim bem cuidado projetado com passagens feitas com plantas ornamentais .
+169.png#4	Câmara com fachada simétrica, janelas e portas ornamentadas e sua arquitetura apresenta linhas elegantes e proporções equilibradas .
+170.png#0	Uma ponte com base branca em forma de triângulos que se projetam na água .
+170.png#1	Uma extensa ponte acima de um rio e localizada em um parque verde .
+170.png#2	Uma grande ponte com vitrais coloridos de diversas formas e tamanhos .
+170.png#3	Um rio abaixo de uma ponte branca com vitrais coloridos de formatos variados como triângulos, trapézios e paralelogramos .
+170.png#4	Uma praça com uma trilha de pedras e gramíneas e uma grande ponte branca com vitrais de cores e tamanhos diversos .
+171.png#0	Estátua antiga em uma praça com árvores em sua volta .
+171.png#1	Estátua antiga com três pessoas esculpidas sobre ela .	
+171.png#2	Estátua em que uma pessoa está olhando outras acima de você .
+171.png#3	Estátua em que uma pessoa está sobrepondo algo sobre a cabeça de outra .
+171.png#4	Estátua velha com pessoas, acompanhada da frase “grande guerra” .
+172.png#0	Grandes muralhas de pedra .
+172.png#1	Antigo monumento formado por grandes pedras .	
+172.png#2	Antiga construção de blocos de pedra .
+172.png#3	Construção de pedras antigas com grama em sua volta .
+172.png#4	Antigo monumento em pedra no meio de uma cidade .
+173.png#0	Estátua verde de um homem .
+173.png#1	Estátua verde sobre um monumento branco .	
+173.png#2	Estátua de um homem com pombos à sua volta .
+173.png#3	Estátua verde de um homem segurando uma pena.
+173.png#4	Estátua verde antiga com um homem sobre uma pedra com pombos a sua volta .
+174.png#0	Igreja branca com arquitetura gótica .
+174.png#1	Igreja da cidade de Fortaleza com desenhos esculpidos .	
+174.png#2	Igreja com portas grandes e vidraçarias .
+174.png#3	Igreja branca com manchas pretas, portas e sacadas pretas .
+174.png#4	Igreja com escadaria branca e portas pretas .
+175.png#0	Estátua de um rei numa praça .
+175.png#1	Estátua antiga rodeada por prédios .	
+175.png#2	Estátua branca manchada de preto .
+175.png#3	Estátua de um antigo rei numa praça .
+175.png#4	Estátua velha com carros e prédios a sua volta em um grande pátio .
+176.png#0	Estátua de uma pessoa com um corpo de violão .
+176.png#1	Escultura de um violão sobre um monumento preto .	
+176.png#2	Estátua de uma pessoa com os braços cruzados .
+176.png#3	Estátua na cor de ouro antiga em uma praça .
+176.png#4	Estátua de uma pessoa com corpo de instrumento .
+177.png#0	Estátua de uma mulher sentada próxima a escadas .
+177.png#1	Estátua verde de uma mulher com um jarro .	
+177.png#2	Estátua verde de uma mulher de vestido .
+177.png#3	Estátua de uma mulher sentada com as mãos cruzadas .
+177.png#4	Estátua de uma mulher de vestido e colar, com o braço sobre um jarro .
+178.png#0	Igreja católica com santos .
+178.png#1	Igreja católica com pinturas em toda a igreja .	
+178.png#2	Igreja com inúmeras velas e um altar .  
+178.png#3	Igreja com lustres e pinturas .
+178.png#4	Igreja com imagens de santos, velas e um altar .
+179.png#0	Muro velho com escadas e uma bica .
+179.png#1	Escultura de três seres em um muro e uma calha no fim .
+179.png#2	Escultura em um muro rodeada por plantas .
+179.png#3	Muro com musgo e uma bica em seu rodapé .
+179.png#4	Muro branco com detalhes em amarelo e uma escultura no centro .
+180.png#0	Grande construção amarela e branca .
+180.png#1	Prédio grande e antigo amarelo .	
+180.png#2	Prédio amarelo com portas e sacadas azuis .
+180.png#3	Grande prédio amarelo com colunas e desenhos brancos .
+180.png#4	Prédio amarelo rodeado por prédios brancos .
